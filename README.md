@@ -18,7 +18,7 @@ Simply put, the shell is a program that takes commands from the keyboard and giv
 
 On most Linux systems a program called bash (which stands for Bourne Again SHell, an enhanced version of the original Unix shell program, sh, written by Steve Bourne) acts as the shell program. Besides bash, there are other shell programs that can be installed in a Linux system. These include: ksh, tcsh and zsh.
 
-[List of shell commands].(https://docs.cs.cf.ac.uk/notes/linux-shell-commands/)
+.[List of shell commands].(https://docs.cs.cf.ac.uk/notes/linux-shell-commands/)
 
 #### Installing ZSH
 I recommend to install ZSH for make your daily life in using shell much more easier and fun!.
