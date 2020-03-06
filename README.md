@@ -4,7 +4,7 @@
 
 # QA Documentation
 
-Each day our company is getting bigger than before, and technical knowledge transfer by mouth is not sufficient enough anymore. With this Project I would like to keep track on our old and new features to help current and our future QA to be able learning JULO process efficiently.
+(WIP) Each day our company is getting bigger than before, and technical knowledge transfer by mouth is not sufficient enough anymore. With this Project I would like to keep track on our old and new features to help current and our future QA to be able learning JULO process efficiently.
 
 
 ## API DOCUMENTATION
@@ -13,7 +13,6 @@ Each day our company is getting bigger than before, and technical knowledge tran
 
 
 ## TOOLS
-As per  this doc published these are tools that we use at JULO on our daily works.
 
 * Terminal 
 * [Shell](https://github.com/ryanjulofinance/QADOCS/wiki/TOOLS#shell) - Wiki
@@ -27,11 +26,12 @@ As per  this doc published these are tools that we use at JULO on our daily work
 * Datadogs
 
 
+## System Interactions
 
-
-
-An IDE, or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program.
-
-IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging.
-
+* Mobile App
+* Django Admin
+* CRM
+* Centerix
+* DB
+* Backend API
 
