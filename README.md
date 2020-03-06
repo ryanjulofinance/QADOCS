@@ -15,7 +15,7 @@
 ## TOOLS
 
 * Terminal 
-* [Shell](https://github.com/ryanjulofinance/QADOCS/wiki/TOOLS#shell) - Wiki
+* [Shell](https://github.com/ryanjulofinance/QADOCS/wiki/Shell) - Wiki
 * [Jira](https://github.com/ryanjulofinance/QADOCS/wiki/Jira) - Wiki
 * Slack
 * Test Rail
