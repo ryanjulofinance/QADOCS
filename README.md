@@ -17,7 +17,7 @@ As per  this doc published these are tools that we use at JULO on our daily work
 
 * Terminal 
 * [Shell](https://github.com/ryanjulofinance/QADOCS/wiki/TOOLS#shell) - Wiki
-* Jira
+* [Jira](https://github.com/ryanjulofinance/QADOCS/wiki/Jira) - Wiki
 * Slack
 * Test Rail
 * Postman
